@@ -1,6 +1,7 @@
 body {
 	background: #6eb37f;
 }
+
 .wrapper {
 	width: 400px;
 	position: absolute;
@@ -12,18 +13,22 @@ body {
 	color: #fff;
 	text-align: center;
 }
+
 .wrapper h2 {
 	text-transform: uppercase;
 	font-family: poppins;
 	margin-bottom: 10%;
 }
+
 input[type="text"] {
 	height: 40px;
 
 }
+
 input[type="text"] {
 	font-size: 24px;
 }
+
 button {
 	background: #EE4477;
 	border: none;
@@ -36,10 +41,12 @@ button {
 	letter-spacing: 2px;
 	font-weight: bold;
 }
+
 input[type="radio"] {
 	width: 20px;
 	height: 20px;
 }
+
 b {
 	font-size: 30px;
 }
